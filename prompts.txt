@@ -1,0 +1,161 @@
+PROMPTS = [
+    """Prompt 1. Objective:
+
+Create an eloquent, intellectually sophisticated, and deeply engaging script on the topic of '{input}'. The outcome should be varied and different from any other scripts we've made together. Don't use obvious patterns that an LLM would use, but keep it as if an analysis of the text would confirm it as human written. Use different vocabulary than previous scripts, nouns and verb choices, etc. The script should not only inform but also captivate, inspire, and challenge viewers, leaving them with a lasting intellectual and emotional impact. It should reflect the gravitas of a top-tier academic lecture while utilizing storytelling and cinematic techniques to foster connection and curiosity. The goal is to invite viewers on a 10-minute journey of discovery, guided by profound insights and surprising revelations. Do not speak with fluff; it should use rhetoric with substance, and details about the central chain of insights and studies or breakthrough observations, and the way practitioners think in the field. Do not use headers. I want you to give it all to me in a form that I can read it right away. It shouldn't sound like a speech, but like a very well-informed expert is having an intimate talk with the hearer.
+
+Instructions:
+
+Introduction: Ignite Curiosity
+
+Compelling Hook: Begin with one of the following techniques to immediately draw viewers in:
+Provocative Quote: Present a powerful, relevant quote tied to a modern issue or perspective, making it feel both timeless and current.
+Existential Question: Pose a deeply thought-provoking question that challenges viewers' core beliefs and provokes introspection.
+Counterintuitive Statistic: Share a surprising, lesser-known fact or statistic that subverts expectations and piques curiosity.
+Personal Narrative: Offer a brief but compelling story that relates the topic to the viewer's own life or experiences.
+Viewer Connection:
+Address the audience directly, acknowledging their curiosity and existing knowledge.
+Use inclusive language like "Let's delve into..." to create a sense of camaraderie.
+Hint at deeper insights to come, promising a transformative experience.
+Roadmap with Intrigue:
+Provide a brief, exciting overview of what the video will cover without revealing all the details.
+Foreshadow major revelations to build anticipation.
+Example: "By the end of this video, you'll perceive [INSERT TOPIC HERE] through an entirely new perspective."
+
+Challenging Popular Perceptions: Deepen the Inquiry
+
+Deconstructing Common Narratives:
+Introduce common beliefs or assumptions about [INSERT TOPIC HERE], acknowledging their historical or cultural roots.
+Respectfully and rigorously dismantle misconceptions, presenting clear, evidence-based clarifications.
+Emphasize that revising one's understanding is a sign of intellectual growth.
+Rhetorical Engagement:
+Pose open-ended questions that encourage viewers to reflect critically.
+Use strategic pauses to give viewers time to ponder before unveiling deeper insights.
+Example: "Why do we hold onto the belief that [common misconception]? Let's examine the evidence."
+
+Deep Exploration: Balance Rigor and Accessibility
+
+Thematic Coherence:
+Establish a central thesis or guiding question that anchors the exploration.
+Revisit this theme throughout to maintain focus and build intellectual momentum.
+Sophisticated Yet Clear Communication:
+Break down complex concepts using relatable metaphors and analogies.
+Introduce technical terms with clear explanations and context.
+Use vivid language to help viewers visualize abstract ideas.
+Interdisciplinary Synthesis:
+Highlight connections between '{input}' and other fields or areas of life.
+Show unexpected links between seemingly disparate disciplines.
+Example: "This concept in '{input}' mirrors patterns we see in economics and even music."
+Cutting-Edge & Open Questions:
+Present the latest research and developments with enthusiasm.
+Frame unanswered questions as opportunities for further exploration.
+Encourage viewers to think critically about ongoing debates.
+
+Astounding Insights: Inspire Awe
+
+Revelations with Impact:
+Speak about the historical origins and move forward with the intellectual or professional insights. Gradually build up to key insights, creating a sense of discovery.
+Reveal impactful information strategically for maximum effect.
+Humanizing Complex Ideas:
+Share stories about the people behind major breakthroughs.
+Connect historical journeys to the viewer's own learning process.
+Vivid Conceptualization:
+Use descriptive, sensory language to bring abstract concepts to life.
+Employ thought experiments to help viewers "experience" complex ideas.
+Develop metaphors that evolve and deepen as the video progresses.
+
+Sustained Engagement: Craft a Captivating Journey
+
+Narrative Arc:
+Structure the content like a story, with each revelation leading to new questions.
+Create intellectual tension and release to keep viewers hooked.
+Use cliffhangers to maintain interest.
+Active Participation:
+Pose challenges or thought experiments directly to the viewer.
+Encourage them to apply new knowledge to real-world situations.
+Include moments for self-reflection.
+Example: "How might this new understanding change your approach to [everyday activity]?"
+Emotional & Intellectual Resonance:
+Tap into the awe-inspiring nature of the topic.
+Acknowledge the emotional impact of paradigm shifts.
+Create moments of intellectual satisfaction as complex ideas come together.
+
+Conclusion: Leave a Lasting Impression
+
+Synthesis of Ideas:
+Briefly recap the main points and tie them together thoughtfully.
+Revisit the opening theme, highlighting the intellectual journey undertaken.
+The Road Ahead:
+Pose a final question that encourages further thought.
+Suggest potential future developments or areas for exploration.
+Community Engagement:
+Invite viewers to discuss the topic in the comments.
+Suggest a specific question or topic for them to consider.
+Inspirational Close:
+Connect the intellectual journey to personal growth and societal progress.
+End with a call to action, encouraging continued curiosity and learning.
+
+Additional Techniques for Maximum Impact
+
+Cinematic Language:
+Use visual descriptors to create vivid mental scenes.
+Craft metaphors and analogies that evolve as the narrative progresses.
+Example: "Imagine zooming into the very fabric of reality..."
+Varied Cognitive Pacing:
+Alternate between fast-paced information and slower, reflective moments.
+Use linguistic devices like alliteration or repetition for emphasis.
+Vary sentence length to maintain a dynamic rhythm.
+Intellectual Plot Twists:
+Introduce unexpected perspectives or contradictions.
+Create cognitive dissonance, then resolve it for intellectual satisfaction.
+Futuristic Speculation:
+Encourage viewers to imagine potential future scenarios related to [INSERT TOPIC HERE].
+Frame these speculations as part of an ongoing, exciting intellectual journey.
+Meta-Commentary on Learning:
+Reflect on the learning process itself.
+Validate the challenge of grappling with complex ideas, fostering a growth mindset.
+
+Guidelines for Length and Timing
+
+Target Duration:
+Aim for a script that fits within a 10-minute video format (approximately 1,500 to 1,800 words).
+Adjust the depth and detail to suit this timeframe without sacrificing clarity or engagement.
+Concise Thoroughness:
+Ensure each section is thorough yet concise.
+Maintain a logical progression without unnecessary digressions.
+
+Final Notes:
+
+Tone and Style:
+Maintain an authoritative yet inviting tone.
+Balance intellectual rigor with emotional resonance.
+Avoid jargon unless it's clearly explained and adds value.
+Audience Engagement:
+Connect with the audience throughout.
+Encourage active thinking and personal connection to the material.
+Foster a sense of shared exploration and discovery. Remember to sound intimate throughout and not like someone removed, giving a speech. If you think your output is good, try to make it even more dense with the field's insights and advances in concepts, and connect the dots fluidly—and only then give it to me.
+""",
+
+    """Prompt 2. Without losing any of the content already included, please enhance that output using this advice:
+
+First, I want you to enhance the intellectual stimulation of it by adding some extra hyper-expert insight. Add some historical elements, describing insights accumulated. Then:
+
+If something is implied, then write it out. Then:
+
+If something is implied, then write it out.
+
+[continues...]
+""",
+
+    """Prompt 3. Without losing anything written, expand the output by weaving in important theoretical frameworks, experimental breakthroughs, and key discoveries that have shaped the field of [insert subject]. Be detailed in describing how processes play out practically. Dive into the intellectual traditions that ground the field and highlight the academic debates and controversies that have defined its evolution. Include specific experiments or studies that have pushed the boundaries of knowledge, referencing key findings and their implications. Explore the implications of these insights on both the theoretical and practical levels, providing a broad understanding of how the field has evolved over time. Ensure that the achievements are seamlessly integrated to add width, depth, and breadth, enriching the narrative with a balance of historical context, cutting-edge advancements, and open questions. The goal is to present the field in a way that emphasizes the interplay between theory and experimentation, illustrating the dynamic progress made, a recent advance if applicable, and the challenges that lie ahead.
+""",
+
+    """Prompt 4. Please take the text and apply the following strategies to give me the final most polished version: Refining Text to Evoke a Human Touch
+
+[continues...]
+""",
+
+    """Prompt 5. Take what you just wrote and subtly edit it with additions or word or sentence structure changes after internally going through it line by line, to make sure everything is perfectly and carefully chosen for effect. Maintain a stronger presence of scientific theories, discoveries, and debates, keeping a casual rigor in the text. Do not remove any content.
+
+Restore all key theories, breakthroughs, and discoveries while keeping the new human tone intact.
+"""
+]
