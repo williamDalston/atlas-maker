@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# macOS metadata
+.DS_Store
+
+# Virtual environments
+.env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+outputs/
+
+# Ollama models/cache (if any)
+.ollama/
